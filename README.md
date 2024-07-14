@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm M3galodn81 a.k.a M3galodon and Reality
+### I'm M3galodn81 a.k.a M3galodon and R3ality
 - 🔭 I’m currently working on my about me website
 - 🌱 I’m currently pursuing BS Information Technology - Major in Network and Security
 
