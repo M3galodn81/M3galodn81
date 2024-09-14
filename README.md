@@ -1,32 +1,52 @@
-<h1 align="center">Hi 👋, I'm M3galdodon</h1>
-<h3 align="center">A undergraduate student in IT-Major in Network and Security</h3>
+<h1 align="center">ᗯEᒪᑕOᗰE TO ᗰY GITᕼᑌᗷ ᑭᖇOᖴIᒪE</h1>
 
-- 🔭 I’m currently working on [Game Concept](https://github.com/M3galodn81/CC3-OOP-GameConcept)
+<div align="center">
+    <img src="https://media1.tenor.com/m/B7sjVyIi7H0AAAAC/surtr-arknights.gif">
+</div>
+<h3 align="center">✨𝓅𝓊𝓇𝑒 𝓅𝒶𝒾𝓃 𝒶𝓃𝒹 𝓈𝓊𝒻𝒻𝑒𝓇𝒾𝓃𝑔✨</h3>
 
-- 🌱 I’m currently learning **networking and web development**
+<h2 align="center">~ ᗩᗷOᑌT ᗰE  ~</h2>
 
-- 📫 How to reach me **whyrealityisreal@gmail.com**
+- <b>Nickname:</b> M3galodon
+- <b>Likes :</b> rhythm games and gacha games 
+- <b>Hobbies:</b> playing video games, coding and making music
+- <b>Education: </b> Currently pursuing BSIT Major in Network Security
+- <b>Currently working on :</b> [One Project a Day](https://github.com/M3galodn81/test-projects)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/m3galodon_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m3galodon_music" height="30" width="40" /></a>
-</p>
+<h2 align="center">~✨~ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 ~✨~ </h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" /> </div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3galodn81)](https://github.com/M3galodn81/github-readme-stats)
-<!--
-**M3galodn81/M3galodn81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">~✨~ ҠղօաӀҽժցҽ ~✨~ </h2>
 
-Here are some ideas to get you started:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <p style="margin-right: 20px;">
+    Still in college hell but built projects for completion and for learning like websites, batch files and python scripts. Currently learning how to make web applications using Flask and how to interact with APIs. Also I can make music.
+  </p>
+  <img src="https://media1.tenor.com/m/35yueUTXclYAAAAC/arknights-surtr.gif" alt="Surtr GIF" style="float: right; object-fit: contain; width: 240px; height: auto;"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">~✨~ Cσɳƚαƈƚ ɱҽ ~✨~ </h2>
+
+<a href="https://x.com/M3galodnOffical"> <img align="center"  src ="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>  : Main Twitter Account</a>
+
+<h2 align="center">(っ◔◡◔)っ ♥ Thanks for reading! ♥</h2>
+
+### Also Check
+- [Soundclound [R3ality]](https://soundcloud.com/r3ality_music) : Contains all (-2) music tracks that I made
+- [Youtube [M3galodon]](https://www.youtube.com/@M3galodon_Official) : Contains Tertis and Rhythm Game Content
+- [Youtube [R3ality]](https://www.youtube.com/@M3galodon_Music) : Has music videos of the music tracks that I made
+
+
+
