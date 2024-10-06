@@ -10,10 +10,16 @@
 - <b>Nickname:</b> M3galodon
 - <b>Likes :</b> rhythm games and gacha games 
 - <b>Hobbies:</b> playing video games, coding and making music
-- <b>Education: </b> Currently pursuing BSIT Major in Network Security
+- <b>Education: </b> Currently pursuing BSIT Major in Network and Security
 - <b>Currently working on :</b> [One Project a Day](https://github.com/M3galodn81/test-projects)
 
 <h2 align="center">~✨~ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 ~✨~ </h2>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M3galodn81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=My%20Stats!" height="150" alt="GitHub Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3galodn81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2&custom_title=Top%20Languages!" height="150" alt="Top Languages Graph" />
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
