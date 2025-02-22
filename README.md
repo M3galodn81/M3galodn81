@@ -11,7 +11,7 @@
 - <b>Likes :</b> rhythm games and gacha games 
 - <b>Hobbies:</b> playing video games, coding and making music
 - <b>Education: </b> Currently pursuing BSIT Major in Network and Security
-- <b>Currently working on :</b> [One Project a Day](https://github.com/M3galodn81/test-projects)
+- <b>Currently working on :</b> /null/
 
 <h2 align="center">~✨~ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 ~✨~ </h2>
 
@@ -24,7 +24,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
@@ -38,7 +37,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <p style="margin-right: 20px;">
-    Still in college hell but built projects for completion and for learning like websites, batch files and python scripts. Currently learning how to make web applications using Flask and how to interact with APIs. Also I can make music.
+    Still in college hell but built projects for completion and for learning like websites, batch files and python scripts. Currently learning how to make web applications and IoT. Also I can make music.
   </p>
   <img src="https://media1.tenor.com/m/35yueUTXclYAAAAC/arknights-surtr.gif" alt="Surtr GIF" style="float: right; object-fit: contain; width: 240px; height: auto;"  />
 </div>
@@ -47,12 +46,13 @@
 
 <a href="https://x.com/M3galodnOffical"> <img align="center"  src ="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>  : Main Twitter Account</a>
 
+<a href="https://bsky.app/profile/m3galodn81.bsky.social"> <img align="center"  src ="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white"/>  : Bluesky Account</a>
+
 <h2 align="center">(っ◔◡◔)っ ♥ Thanks for reading! ♥</h2>
 
 ### Also Check
-- [Soundclound [R3ality]](https://soundcloud.com/r3ality_music) : Contains all (-2) music tracks that I made
-- [Youtube [M3galodon]](https://www.youtube.com/@M3galodon_Official) : Contains Tertis and Rhythm Game Content
-- [Youtube [R3ality]](https://www.youtube.com/@M3galodon_Music) : Has music videos of the music tracks that I made
-
+- ![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) [: Contains all (-2) music tracks that I made](https://soundcloud.com/r3ality_music) 
+- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [[M3galodon] : Contains Tertis and Rhythm Game Content](https://www.youtube.com/@M3galodon_Official)
+- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [[R3ality] : Has music videos of the music tracks that I made](https://www.youtube.com/@M3galodon_Music) 
 
 
