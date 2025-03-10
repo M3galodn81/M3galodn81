@@ -36,7 +36,7 @@
 <h2 align="center">~✨~ ҠղօաӀҽժցҽ ~✨~ </h2>
 
 <table >
-  <tr style="border: none; vertical-align: middle;">
+  <tr>
     <td style="border: none; vertical-align: middle;">
       Still in college hell but built projects for completion and for learning like websites, batch files, and Python scripts.  
       Currently learning how to make web applications and IoT. Also, I can make music.
