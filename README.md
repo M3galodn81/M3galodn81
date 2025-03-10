@@ -35,12 +35,17 @@
 
 <h2 align="center">~✨~ ҠղօաӀҽժցҽ ~✨~ </h2>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <p style="margin-right: 20px;">
-    Still in college hell but built projects for completion and for learning like websites, batch files and python scripts. Currently learning how to make web applications and IoT. Also I can make music.
-  </p>
-  <img src="https://media1.tenor.com/m/35yueUTXclYAAAAC/arknights-surtr.gif" alt="Surtr GIF" style="float: right; object-fit: contain; width: 240px; height: auto;"  />
-</div>
+<table >
+  <tr style="border: none; vertical-align: middle;">
+    <td style="border: none; vertical-align: middle;">
+      Still in college hell but built projects for completion and for learning like websites, batch files, and Python scripts.  
+      Currently learning how to make web applications and IoT. Also, I can make music.
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <img src="https://media1.tenor.com/m/35yueUTXclYAAAAC/arknights-surtr.gif" width="240px">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">~✨~ Cσɳƚαƈƚ ɱҽ ~✨~ </h2>
 
