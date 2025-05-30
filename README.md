@@ -11,7 +11,7 @@
 - <b>Likes :</b> rhythm games and gacha games 
 - <b>Hobbies:</b> playing video games, coding and making music
 - <b>Education: </b> Currently pursuing BSIT Major in Network and Security
-- <b>Currently working on :</b> /null/
+- <b>Currently working on :</b> JANOARG
 
 <h2 align="center">~✨~ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 ~✨~ </h2>
 
