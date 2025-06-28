@@ -11,7 +11,7 @@
 - <b>Likes :</b> rhythm games and gacha games 
 - <b>Hobbies:</b> playing video games, coding and making music
 - <b>Education: </b> Currently pursuing BSIT Major in Network and Security
-- <b>Currently working on :</b> JANOARG
+- <b>Currently working on :</b> JANOARG and █████████████
 
 <h2 align="center">~✨~ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 ~✨~ </h2>
 
@@ -39,7 +39,7 @@
   <tr>
     <td style="border: none; vertical-align: middle;">
       Still in college hell but built projects for completion and for learning like websites, batch files, and Python scripts.  
-      Currently learning how to make web applications and IoT. Also, I can make music.
+      Currently learning how to make web applications and IoT. Also, I can make music <i>Currently in hiatus since college</i>.
     </td>
     <td style="border: none; vertical-align: middle;">
       <img src="https://media1.tenor.com/m/35yueUTXclYAAAAC/arknights-surtr.gif" width="240px">
